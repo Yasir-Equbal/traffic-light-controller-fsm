@@ -11,7 +11,14 @@ using my previous knowledge of verilog and other thing to design and implement a
   simple
   when red light show to road vehicle should stop on road a
   and at the same time road b show green light vehicle will move.
-  but 
+
+  WE NEED TO DEFINE
+  - INPUT
+  - OUTPUT
+  - STATE
+  - STATE LOGIC
+  - STATE REGISTER
+  - CURRENT STATE 
   
   
   
